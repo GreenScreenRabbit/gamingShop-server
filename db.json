@@ -1,0 +1,78 @@
+{
+    "gamingDevices": {
+        "mouse": [
+            {
+                "name": "sensei 228",
+                "brand": "SteelSeries",
+                "img": "https://external-preview.redd.it/rV7GRJmxQob3jvq5IGRK9v48xUJRZuZDfC9CLFdARvc.jpg?auto=webp&s=510d435c33bf767bf726965022a1122abb0a0b7b",
+                "price": 90
+            },
+            {
+                "name": "Razer DeathAdder",
+                "brand": "Razer",
+                "img": "https://i.pinimg.com/736x/75/1b/aa/751baafe351ecf548c77e28e6b7e960f.jpg",
+                "price": 40
+            },
+            {
+                "name": "Razer Naga",
+                "brand": "Razer",
+                "img": "https://beon.vip/uploads_image/8d/68/8d687113cbbf115f9874bc89015d4524.png",
+                "price": 70
+            },
+            {
+                "name": "Razer Naga",
+                "brand": "Razer",
+                "img": "https://beon.vip/uploads_image/8d/68/8d687113cbbf115f9874bc89015d4524.png",
+                "price": 70
+            },
+            {
+                "name": "Logitech G502",
+                "brand": "Logitech",
+                "img": "https://www.meme-arsenal.com/memes/307290bf13f66c6a976fcf56d32cad21.jpg",
+                "price": 140
+            },
+            {
+                "name": "HyperX Pulsefire Surge",
+                "brand": "HyperX",
+                "img": "https://hotline.ua/img/tx/167/1678758615.jpg",
+                "price": 60
+            }
+        ],
+        "keyboards": [
+            {
+                "name": "Razer BlackWidow V3",
+                "brand": "Razer",
+                "img": "https://hyperpc.ru/images/catalog/accessories/keyboard/razer/blackwidow-v3-tenkeyless/razer-blackwidow-v3-tenkeyless.jpg",
+                "price": 240
+            },
+            {
+                "name": "HyperX Alloy FPS",
+                "brand": "HyperX",
+                "img": "https://hyperpc.ru/images/catalog/accessories/keyboard/hyperx/alloy_fps_pro/gallery/hpc_kingston_hyperx_alloy_fps_pro-photo-1.jpg",
+                "price": 240
+            }
+        ],
+        "headphones": [
+            {
+                "name": "Logitech G PRO X",
+                "brand": "Logitech",
+                "img": "https://www.3ona51.com/images/products/gaming-headphones/logitech-g-pro-x-gaming-headset-981-000818/600.jpg",
+                "price": 180
+            },
+            {
+                "name": "Razer Kraken X",
+                "brand": "Razer",
+                "img": "https://www.3ona51.com/images/products/gaming-headphones/razer-kraken-x-usb-rz04-02960100-r3m1/600.jpg",
+                "price": 70
+            }
+        ],
+        "GamingChair": [
+            {
+                "name": "Razer ULTRA DELUXE GAMING CHAIR",
+                "brand": "Razer",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A0fSbhyzEWPl1TTa-DpGe5UpcE6_LDXtqgFgMq2tUTYLyDzcYN0g0qrSHMBAvae529E&usqp=CAU",
+                "price": 666
+            }
+        ]
+    }
+}
