@@ -3,6 +3,7 @@
         "mouse": [
             {
                 "name": "sensei 228",
+                "id" : 1,
                 "type": "mouse",
                 "brand": "SteelSeries",
                 "img": "https://external-preview.redd.it/rV7GRJmxQob3jvq5IGRK9v48xUJRZuZDfC9CLFdARvc.jpg?auto=webp&s=510d435c33bf767bf726965022a1122abb0a0b7b",
@@ -10,6 +11,7 @@
             },
             {
                 "name": "Razer DeathAdder",
+                "id" : 2,
                 "type": "mouse",
                 "brand": "Razer",
                 "img": "https://www.3ona51.com/images/products/gaming-mouses/razer-deathadder-essential-rz01-02540100-r3m1/600.jpg",
@@ -17,6 +19,7 @@
             },
             {
                 "name": "Razer Naga",
+                "id" : 3,
                 "type": "mouse",
                 "brand": "Razer",
                 "img": "https://www.3ona51.com/images/products/gaming-mouses/razer-naga-pro-wireless-rz01-03420100-r3g1/600.jpg",
@@ -24,6 +27,7 @@
             },
             {
                 "name": "Logitech G502",
+                "id" : 4,
                 "type": "mouse",
                 "brand": "Logitech",
                 "img": "https://www.meme-arsenal.com/memes/307290bf13f66c6a976fcf56d32cad21.jpg",
@@ -31,6 +35,7 @@
             },
             {
                 "name": "HyperX Pulsefire Surge",
+                "id" : 5,
                 "type": "mouse",
                 "brand": "HyperX",
                 "img": "https://hotline.ua/img/tx/167/1678758615.jpg",
@@ -40,6 +45,7 @@
         "keyboards": [
             {
                 "name": "Razer BlackWidow V3",
+                "id" : 6,
                 "type": "keyboard",
                 "brand": "Razer",
                 "img": "https://hyperpc.ru/images/catalog/accessories/keyboard/razer/blackwidow-v3-tenkeyless/razer-blackwidow-v3-tenkeyless.jpg",
@@ -47,6 +53,7 @@
             },
             {
                 "name": "HyperX Alloy FPS",
+                "id" : 7,
                 "type": "keyboard",
                 "brand": "HyperX",
                 "img": "https://hyperpc.ru/images/catalog/accessories/keyboard/hyperx/alloy_fps_pro/gallery/hpc_kingston_hyperx_alloy_fps_pro-photo-1.jpg",
@@ -56,6 +63,7 @@
         "headphones": [
             {
                 "name": "Logitech G PRO X",
+                "id" : 8,
                 "type": "headphone",
                 "brand": "Logitech",
                 "img": "https://www.3ona51.com/images/products/gaming-headphones/logitech-g-pro-x-gaming-headset-981-000818/600.jpg",
@@ -63,6 +71,7 @@
             },
             {
                 "name": "Razer Kraken X",
+                "id" : 9,
                 "type": "headphone",
                 "brand": "Razer",
                 "img": "https://www.3ona51.com/images/products/gaming-headphones/razer-kraken-x-usb-rz04-02960100-r3m1/600.jpg",
@@ -72,6 +81,7 @@
         "gamingChairs": [
             {
                 "name": "RAZER ULTRA GAMING CHAIR",
+                "id" : 10,
                 "type": "gamingChair",
                 "brand": "Razer",
                 "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A0fSbhyzEWPl1TTa-DpGe5UpcE6_LDXtqgFgMq2tUTYLyDzcYN0g0qrSHMBAvae529E&usqp=CAU",
